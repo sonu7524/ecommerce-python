@@ -3,7 +3,7 @@
 ---
 ## screenshots
 ### Admin Dashboard
-![dashboard snap](https://github.com/sonu7524/ecommerce-python/blob/master/static/screenshots/adminHomepage.png?raw=true)
+![dashboard snap](https://github.com/sonu7524/ecommerce-python/blob/master/static/screenshots/adminHomepage.png)
 ### Customer Homepage
 ![homepage snap](https://github.com/sonu7524/ecommerce-python/blob/master/static/screenshots/customerhomepage.png?raw=true)
 ### Cart
