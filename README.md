@@ -1,15 +1,4 @@
 # ECOMMERCE
-![developer](Sonu Daryani)
----
-## screenshots
-### Admin Dashboard
-![dashboard snap](https://github.com/sonu7524/ecommerce-python/blob/master/static/screenshots/adminHomepage.png)
-### Customer Homepage
-![homepage snap](https://github.com/sonu7524/ecommerce-python/blob/master/static/screenshots/customerhomepage.png?raw=true)
-### Cart
-![cart snap](https://github.com/sonu7524/ecommerce-python/blob/master/static/screenshots/cart.png?raw=true)
-### Track Orders
-![orders snap](https://github.com/sonu7524/ecommerce-python/blob/master/static/screenshots/orderspage.png?raw=true)
 ---
 ## FUNCTIONS
 ## Customer
